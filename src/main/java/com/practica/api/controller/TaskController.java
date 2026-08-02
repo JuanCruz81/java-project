@@ -22,6 +22,8 @@ public class TaskController {
     public List<String> obtenerTodas() {
         return tareas;
     }
+    // se puede hacer un filtrado y solo devolver las tareas que coincidan con la
+    // palabra enviada en el req
 
     // 2. Agregar una tarea (POST http://localhost:8080/api/tasks?nombre=Estudiar)
     @PostMapping
