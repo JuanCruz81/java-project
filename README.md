@@ -74,3 +74,6 @@ Ejemplo de respuesta:
   }
 ]
 ```
+
+## Pipeline Demo
+Pipeline ejecutado: Tue Aug  4 23:32:40 -03 2026
